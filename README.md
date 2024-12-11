@@ -1,19 +1,16 @@
-# TÍTULO DO PROJETO
+# GAME PARKOUR DANILO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: MODELAGEM 3D`
+`2021 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Danilo Oliveira Andrade
 
 ## Professor
 
-- Mestre Yoda
+- Will
 
 # Documentação
 
